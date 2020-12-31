@@ -5,7 +5,7 @@ I learn the newest tools & features and make frontend projects with them every d
 
 🔭 Currently working on Project100, the biggest JavaScript application package. More on that coming soon. ;)  
 🔭 I’m also looking for a frontend development job in Canada.  
-I am currently learning: SASS, ReactJS, Package Managers & Advanced JavaScript.    
+:bulb I am currently learning: SASS, ReactJS, Package Managers & Advanced JavaScript.    
        
 My favorite projects:  
 [Shopping Cart Template](https://ali-shariatii.github.io/shopping-cart/) | [Weather App](https://ali-shariatii.github.io/weather-app-featuring-a-search-engine/) | [Virtual Keyboard](https://ali-shariatii.github.io/reusable-virtual-keyboard/) | [Meditation App](https://ali-shariatii.github.io/meditation-app/) | [Election Map](https://ali-shariatii.github.io/election-map/).    
