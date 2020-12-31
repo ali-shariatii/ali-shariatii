@@ -11,7 +11,7 @@ I learn the newest tools & features and make frontend projects with them every d
 :coffee: **My completed-ish projects at the moment:**  
 [Shopping Cart Template](https://ali-shariatii.github.io/shopping-cart/) | [Weather App](https://ali-shariatii.github.io/weather-app-featuring-a-search-engine/) | [Virtual Keyboard](https://ali-shariatii.github.io/reusable-virtual-keyboard/) | [Meditation App](https://ali-shariatii.github.io/meditation-app/) | [Election Map](https://ali-shariatii.github.io/election-map/).    
      
-📫 **How to reach me: ** 
+📫 **How to reach me:**    
 [Email](mailto:a.shariatii91@gmail.com) | [Portfolio](https://alishariatii.com/) | [Blog](https://blog.alishariatii.com/) | [GitHub](https://github.com/ali-shariatii/) | [LinkedIn](https://www.linkedin.com/in/ali-shariatii/)  
 [Dev.to](https://dev.to/alishariatii) | [Twitter](https://twitter.com/a_shariatii) | [YouTube](https://www.youtube.com/channel/UCtMqKuobuxPU_9ZIp8vZXgw) | [Instagram](https://www.instagram.com/web_block/)  | [Facebook](https://www.facebook.com/webblokk)
 
