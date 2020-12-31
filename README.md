@@ -12,7 +12,7 @@ HTML | CSS | JavaScript | JSON | Git | GitHub | Terminal, WebAPI | API | VSC
 Interactive Coding | Responsive Design | Cross-Browser Testing | Debugging Techniques | Web Publishing
    
  **Currently Learning:**    
-SASS, ReactJS & Package Managers    
+SASS | ReactJS | NPM | Parcel  
        
  **My completed-ish projects at the moment:**  
 [Shopping Cart Template](https://ali-shariatii.github.io/shopping-cart/) | [Weather App](https://ali-shariatii.github.io/weather-app-featuring-a-search-engine/) | [Virtual Keyboard](https://ali-shariatii.github.io/reusable-virtual-keyboard/) | [Meditation App](https://ali-shariatii.github.io/meditation-app/) | [Election Map](https://ali-shariatii.github.io/election-map/).    
