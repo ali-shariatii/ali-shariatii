@@ -19,7 +19,7 @@ SASS | ReactJS | NPM | Parcel
      
  **How to reach me:**    
 [Email](mailto:a.shariatii91@gmail.com) | [Portfolio](https://alishariatii.com/) | [Blog](https://blog.alishariatii.com/) | [GitHub](https://github.com/ali-shariatii/) | [Dev.to](https://dev.to/alishariatii) | [LinkedIn](https://www.linkedin.com/in/ali-shariatii/)   
-[Stack overflow](https://stackoverflow.com/users/13517523/ali-shariati) | [Twitter](https://twitter.com/a_shariatii) | [YouTube](https://www.youtube.com/channel/UCtMqKuobuxPU_9ZIp8vZXgw) | [Instagram](https://www.instagram.com/web_block/)  | [Facebook](https://www.facebook.com/webblokk)
+[Stack Overflow](https://stackoverflow.com/users/13517523/ali-shariati) | [Twitter](https://twitter.com/a_shariatii) | [YouTube](https://www.youtube.com/channel/UCtMqKuobuxPU_9ZIp8vZXgw) | [Instagram](https://www.instagram.com/web_block/)  | [Facebook](https://www.facebook.com/webblokk)
 
 <!--
 **ali-shariatii/ali-shariatii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
