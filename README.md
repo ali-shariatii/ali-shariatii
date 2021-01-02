@@ -8,7 +8,7 @@ I learn the newest tools & features and make frontend projects with them every d
         
   
 **My Skills & Tools:**    
-HTML | CSS | JavaScript | JSON | Git | GitHub | Terminal, WebAPI | API | VSC  
+HTML | CSS | JavaScript | JSON | Git | GitHub | Terminal | CLI | WebAPI | API | VSC  
 Interactive Coding | Responsive Design | Cross-Browser Testing | Debugging Techniques | Web Publishing
    
  **Currently Learning:**    
