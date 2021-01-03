@@ -3,7 +3,7 @@
 My name is **Ali**, an enthusiastic front-end web developer from Canada.  
 I learn the newest tools & features and make frontend projects with them every day.
 
-:heavy_check_mark: Currently working on Project100, the biggest JavaScript application package. More on that coming soon. :wink:  
+:heavy_check_mark: Currently working on Webblock, the biggest JavaScript application package. More on that coming soon. :wink:  
 :heavy_check_mark: I’m also looking for a frontend development job in Canada.        
         
   
